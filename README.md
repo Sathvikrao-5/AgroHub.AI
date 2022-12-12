@@ -85,6 +85,8 @@ Learning Models for Precision Agriculture</h2>
 <img src="https://github.com/Sathvikrao-5/AgroHub.AI/blob/main/Demo%20Screenshots/use_case_diagram.png">
  
  <h2> Training Pipeline</h2>
-<img src="https://github.com/Sathvikrao-5/AgroHub.AI/blob/main/Demo%20Screenshots/trainingpipeline.png">
+<img src="https://user-images.githubusercontent.com/64311071/207087664-29fbf3b4-f7f1-47e2-aa0d-ace6f303e871.png">
+
+
 
 
