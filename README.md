@@ -82,9 +82,9 @@ Learning Models for Precision Agriculture</h2>
   *   Artificial Neural Networks
  
   <h2>Use Case Diagram</h2>
-<img src="https://github.com/Hemanthghs/AgroHub.AI/blob/main/Demo%20Screenshots/use_case_diagram.png">
+<img src="https://github.com/Sathvikrao-5/AgroHub.AI/blob/main/Demo%20Screenshots/use_case_diagram.png">
  
  <h2> Training Pipeline</h2>
-<img src="https://github.com/Hemanthghs/Cotton-Leaf-Disease-Detection-using-Deep-Learning/blob/main/readme_imgs/training_pipeline.jpg">
+<img src="https://github.com/Sathvikrao-5/Cotton-Leaf-Disease-Detection-using-Deep-Learning/blob/main/readme_imgs/training_pipeline.jpg">
 
 
